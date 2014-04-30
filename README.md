@@ -1,4 +1,4 @@
-`SpringExtJs
+SpringExtJs
 ===========
 
-```Code to support "RESTful Spring MVC and ExtJs (http://justinrodenbostel.com)"
+Code to support "RESTful Spring MVC and ExtJs (http://justinrodenbostel.com)"
